@@ -28,7 +28,14 @@ namespace ConsoleGameCore.Models
             if (InBounds(x, y)) cells[y, x] = c;
         }
 
+        public void Set(Position pos, char c)
+        {
+            if (InBounds(pos)) cells[pos.Y, pos.X] = c;
+        }
+
         public bool InBounds(int x, int y) => x >= 0 && y >= 0 && x < Width && y < Height;
+
+        public bool InBounds(Position pos) => pos.X >= 0 && pos.Y >= 0 && pos.X < Width && pos.Y < Height;
 
         public void Render()
         {

@@ -1,12 +1,13 @@
+C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\turmari-desert-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\turmari-desert-C#.AssemblyInfoInputs.cache
+C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\turmari-desert-C#.AssemblyInfo.cs
+C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\turmari-desert-C#.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\turmari-desert-C#.sourcelink.json
 C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\bin\Debug\net9.0\turmari-desert-C#.exe
 C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\bin\Debug\net9.0\turmari-desert-C#.deps.json
 C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\bin\Debug\net9.0\turmari-desert-C#.runtimeconfig.json
 C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\bin\Debug\net9.0\turmari-desert-C#.dll
 C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\bin\Debug\net9.0\turmari-desert-C#.pdb
-C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\turmari-desert-C#.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\turmari-desert-C#.AssemblyInfoInputs.cache
-C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\turmari-desert-C#.AssemblyInfo.cs
-C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\turmari-desert-C#.csproj.CoreCompileInputs.cache
 C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\turmari-desert-C#.dll
 C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\refint\turmari-desert-C#.dll
 C:\Users\sanch\Desktop\BYU Pathway - BYU Idaho\Programming\CSE 310 - Applied Programming\turmari-desert-C#\obj\Debug\net9.0\turmari-desert-C#.pdb
