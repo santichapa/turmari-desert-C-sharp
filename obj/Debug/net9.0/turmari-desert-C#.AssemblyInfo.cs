@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("turmari-desert-C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19475a8574476d21b304b2db06ff1ef3c296844d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd86c5c9ea5dc20e45f05d45026681dc89e9b7f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("turmari-desert-C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("turmari-desert-C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
