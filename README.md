@@ -4,7 +4,7 @@ The project is called Turmari Desert and it is a C# based game. It creates a gri
 
 The purpose of this game is to have a higher kill count or highscore before being defeated by the mercenaries. Since you can't possibly kill them all. you have to use your wit and strategy to defeat the greater amount of enemies.
 
-[Turmari Desert Demo Video]()
+[Turmari Desert Demo Video](https://go.screenpal.com/watch/cTXXeqnFE9f)
 
 # Development Environment
 
